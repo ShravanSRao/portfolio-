@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');@import "tailwindcss";
+@theme {
+    --font-it: "Inter", serif;
+    --font-PD: "Playfair Display", serif;
+    --font-BN: "Bebas Neue", serif;
+    --color-backg:#020c1a;
+    --color-primary:#7aa6f5;
+    --color-secondary:#2d0b90;
+    --color-accent:#a537f0;
+    --color-txt:#e6effd;
+    --color-txt1:rgba(16, 185, 129);
+    --color-p2:#0F1727;
+    --color-p3:#1B2A46;
+    
+}
